@@ -20,5 +20,5 @@ Me chamo Gabriel Fernandes dos Santos, tenho 18 anos e sou natural de São Paulo
 ---
 
 📫 **Como me encontrar:** 
-[LinkedIn](www.linkedin.com/in/gabriel-fernandes-ads) | [E-mail](santosgabrielfernandespc@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gabriel-fernandes-ads) | [E-mail](santosgabrielfernandespc@gmail.com)
 
