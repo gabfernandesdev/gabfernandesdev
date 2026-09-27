@@ -1,16 +1,10 @@
-<table border="0">
-  <tr>
-    <td valign="middle" width="70%">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&vCenter=true&width=1000&lines=[=+Welcome,+To+My+Profile!+=]" alt="Typing SVG" />
-      </a>
-    </td>
-    <td valign="middle" align="right" width="30%">
-      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" alt="Demonstração do projeto" />
-    </td>
-  </tr>
-</table>
-
+<p align="left">
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="250" alt="Demonstração do projeto" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=42&width=600&height=100&lines=[=+Welcome,+To+My+Profile!+=]" alt="Typing SVG" />
+  </a>
+</p>
+<br clear="right" />
 <p align="center">
   <img src=".github/workflows/gabrielfernandes github (1280 x 320 px).gif" />
 </p>
