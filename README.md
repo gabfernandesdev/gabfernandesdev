@@ -1,7 +1,7 @@
 <p align="left">
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="250" alt="Demonstração do projeto" />
-  <br /><br />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=42&width=600&height=120&vCenter=true&lines=[=+Welcome,+To+My+Profile!+=]" alt="Typing SVG" />
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200" alt="Demonstração do projeto" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=32&width=400&height=100&vCenter=true&lines=[=+Welcome,+To+My+Profile!+=]" alt="Typing SVG" />
 </p>
 <br clear="right" />
 
