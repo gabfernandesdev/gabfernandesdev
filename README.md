@@ -1,14 +1,9 @@
 <p align="left">
   <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="250" alt="Demonstração do projeto" />
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=42&width=600&height=100&lines=[=+Welcome,+To+My+Profile!+=]" alt="Typing SVG" />
-  </a>
+  <br /><br />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=42&width=600&height=120&vCenter=true&lines=[=+Welcome,+To+My+Profile!+=]" alt="Typing SVG" />
 </p>
 <br clear="right" />
-<p align="center">
-  <img src=".github/workflows/gabrielfernandes github (1280 x 320 px).gif" />
-</p>
-</h3>
 
 <h1>Olá👋</h1>
 <p>Me chamo Gabriel Fernandes dos Santos, tenho 18 anos e sou natural de São Paulo. Sou fascinado por tecnologia, programação e resolução de problemas. Perfil dedicado, organizado e com rápida adaptação a novas linguagens, ferramentas e ecossistemas. Busco constantemente aprender, evoluir minhas habilidades técnicas e adquirir experiência prática para impactar projetos reais.</p>
