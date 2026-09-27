@@ -9,10 +9,6 @@
 <h1>Olá👋</h1>
 <p>Me chamo Gabriel Fernandes dos Santos, tenho 18 anos e sou natural de São Paulo. Sou fascinado por tecnologia, programação e resolução de problemas. Perfil dedicado, organizado e com rápida adaptação a novas linguagens, ferramentas e ecossistemas. Busco constantemente aprender, evoluir minhas habilidades técnicas e adquirir experiência prática para impactar projetos reais.</p>
 
-#
-
-
-
 
 
 <p1>📌 Sobre mim
@@ -37,8 +33,10 @@
 <br>
 </br>
 <h2>⚡️ Onde me encontrar</h2>
-
-<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/gabriel-fernandes-ads" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+[LinkedIn](https://www.linkedin.com/in/gabriel-fernandes-ads) | [E-mail](mailto:santosgabrielfernandespc@gmail.com)
+<p><a target="_blank" href="https://www.linkedin.com/in/gabriel-fernandes-ads" style="display: inline-block;">
+<img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+</p>
 
 
 
