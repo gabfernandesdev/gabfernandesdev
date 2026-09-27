@@ -35,6 +35,9 @@
 <h2>⚡️ Onde me encontrar</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/gabriel-fernandes-ads" style="display: inline-block;">
 <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="mailto:santosgabrielfernandespc@gmail.com" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Gmail/D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 </p>
 
 
