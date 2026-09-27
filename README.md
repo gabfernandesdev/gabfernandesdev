@@ -1,6 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
 
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="600" alt="Demonstração do projeto">
+
+
 <p align="center">
   <img src=".github/workflows/gabrielfernandes github (1280 x 320 px).gif" />
 </p>
