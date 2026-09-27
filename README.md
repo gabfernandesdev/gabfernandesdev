@@ -18,14 +18,11 @@
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
-#
 
 <p align="center">
   <img src=".github/workflows/gabrielfernandes github (1280 x 320 px).gif" />
 </p>
 </h3>
-
-#
 
 <h1>Olá👋</h1>
 <p>Me chamo Gabriel Fernandes dos Santos, tenho 18 anos e sou natural de São Paulo. Sou fascinado por tecnologia, programação e resolução de problemas. Perfil dedicado, organizado e com rápida adaptação a novas linguagens, ferramentas e ecossistemas. Busco constantemente aprender, evoluir minhas habilidades técnicas e adquirir experiência prática para impactar projetos reais.</p>
