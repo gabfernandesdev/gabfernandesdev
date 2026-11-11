@@ -5,7 +5,7 @@
 </p>
 <br clear="right" />
 <h1>Olá👋</h1>
-<p>Me chamo Gabriel Fernandes dos Santos, tenho 18 anos e sou natural de São Paulo. Sou fascinado por tecnologia, programação e resolução de problemas. Perfil dedicado, organizado e com rápida adaptação a novas linguagens, ferramentas e ecossistemas. Busco constantemente aprender, evoluir minhas habilidades técnicas e adquirir experiência prática para impactar projetos reais.</p>
+<p>Me chamo Gabriel Fernandes, sou fascinado por tecnologia, programação e resolução de problemas. Perfil dedicado, organizado e com rápida adaptação a novas linguagens, ferramentas e ecossistemas. Busco constantemente aprender, evoluir minhas habilidades técnicas e adquirir experiência prática para impactar projetos reais.</p>
 
 
 
